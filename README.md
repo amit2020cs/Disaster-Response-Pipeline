@@ -18,3 +18,5 @@
 5. I find a data set containing real messages that were sent during disaster events. You will be creating a machine learning      pipeline to categorize these events so that you can send the messages to an appropriate disaster relief agency.
 
 6. My project will include a web app where an emergency worker can input a new message and get classification results in          sever6. al categories. The web app will also display visualizations of the data. This project will show off your software      skills, including your ability to create basic data pipelines and write clean, organized code!
+![Screenshot from 2020-05-10 01-58-21](https://user-images.githubusercontent.com/31853896/81484317-3b720580-9262-11ea-8b54-b0db26e19c56.png)
+![Screenshot from 2020-05-10 01-57-28](https://user-images.githubusercontent.com/31853896/81484322-40cf5000-9262-11ea-9374-c9d2c63ac7d4.png)
